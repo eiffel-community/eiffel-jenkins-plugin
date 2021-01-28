@@ -18,6 +18,9 @@
 <img src="./images/logo.png" alt="Eiffel Jenkins Plugin" width="350"/>
 
 # Eiffel Jenkins Plugin
+
+[![Sandbox badge](https://img.shields.io/badge/Stage-Sandbox-yellow)](https://github.com/eiffel-community/community/blob/master/PROJECT_LIFECYCLE.md#stage-sandbox)
+
 The Eiffel Jenkins Plugin turns [Jenkins](https://jenkins.io) into a fully featured Eiffel actor in the software pipeline. It allows for easy authoring of events, as well as consuming and reacting to incoming events.
 
 # About this repository
